@@ -1,18 +1,18 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.8</VERSION>
  <DEVICE>"ATmega128A"</DEVICE>
- <WORKING_DIR>C:\Git\EECE3624-Lab03\Debug</WORKING_DIR>
+ <WORKING_DIR>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
   <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Git\EECE3624-Lab03\Lab03.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m128adef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Git\EECE3624-Lab03\Debug\Lab03.obj</FILE>
+  <FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Debug\Lab03.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>Lab03.hex</FILE>
@@ -22,6 +22,12 @@
   <FILE>Lab03.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <main><FILE>C:\Git\EECE3624-Lab03\Lab03.asm</FILE><LINE>40</LINE></main>
+  <main><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>41</LINE></main>
+  <s1GoE><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>66</LINE></s1GoE>
+  <storeS1><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>70</LINE></storeS1>
+  <s2L><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>82</LINE></s2L>
+  <sC><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>86</LINE></sC>
+  <sNE><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>96</LINE></sNE>
+  <end><FILE>C:\Users\craft\OneDrive\Documents\School\26-27\Microprocessors\Repo\Microprocessors-Lab03\EECE3624-Lab03-main\EECE3624-Lab03-main\Lab03.asm</FILE><LINE>101</LINE></end>
  </LABELS>
 </ASSEMBLER_INFO>
