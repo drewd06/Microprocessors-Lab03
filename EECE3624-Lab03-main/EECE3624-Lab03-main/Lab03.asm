@@ -1,12 +1,13 @@
 /**************************************************************************
  *     File: Lab03.asm
  * Lab Name: Lab 03
- *   Author: John Hutton
- *  Created: 09/16/2022
+ *   Author: Drew Dimino
+ *  Created: 09/08/2026
  *
  * This program simulates reading sensor data and doing operations on them.
  * It uses memory locations for sensors and result writes.
  * We hope to learn more about branching in assembly.
+ * This is an additional line I added for fun I guess
  *************************************************************************/
 
 /************************************************************************
